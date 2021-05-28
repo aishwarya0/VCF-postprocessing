@@ -1,6 +1,6 @@
 # VCF-postprocessing
-Script to extract columns from Funcotator output file 
-Pre-requisite
+Script to extract important columns from Funcotator output file 
+Pre-requisite:
 1.VCFpy
 2.vcf
 3.pandas 
